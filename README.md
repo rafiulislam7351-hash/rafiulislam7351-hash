@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rafiul Islam</h1>
 <h3 align="center">🚀 Aspiring Data Engineer | Computer Science Student</h3>
 
@@ -14,30 +13,6 @@
 <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
 <img src="https://img.shields.io/badge/Focus-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Focus">
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status">
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D Season Graph" width="100%">
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake.svg">
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 </p>
 
 ---
@@ -60,9 +35,9 @@
  FastAPI (ride event generator)
         │
         ▼
- Azure Event Hub  ──►  [ Stream consumer / ADLS Gen2  ──►  Databricks / Synapse  ──►  Power BI ]
-        │                        (bronze)                      (silver → gold)
-        └── CI/CD with GitHub Actions
+ Azure Event Hub  ──►  ADLS Gen2 (bronze)  ──►  Databricks (silver → gold)  ──►  Power BI
+        │
+        └── Automated with GitHub Actions CI/CD
 ```
 
 - Simulated ride events produced by a **FastAPI** app and streamed to **Azure Event Hub**
@@ -139,7 +114,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rafiulislam7351-hash&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
@@ -162,7 +137,7 @@
 
 ## 🌐 Connect & Collaborate
 
-<!-- ⚠️ TODO: replace the href values below with your real links before publishing! -->
+<!-- ⚠️ Replace the YOUR-... placeholders with your real links -->
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
 <a href="mailto:YOUR.EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
@@ -175,9 +150,36 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafiulislam7351-hash.rafiulislam7351-hash&left_color=burlywood&right_color=azure"/>
 </p>
 
----
+<!--
+════════════════════════════════════════════════════════════════════
+⭐ OPTIONAL — extra "3D / animated" sections (uncomment to enable)
 
-<!-- Auto-updated daily by GitHub Actions:
-🧊 3D graph  -> .github/workflows/3d-contrib.yml  (branch: profile-3d-contrib)
-🐍 Snake     -> .github/workflows/snake.yml        (branch: output)
+The two blocks below need ONE small GitHub Action each to auto-generate
+their images. Without the actions, GitHub shows a broken image.
+
+1) Animated 3D contribution graph (yoshi389111/github-profile-3d-contrib)
+→ creates branch: profile-3d-contrib
+
+2) Snake eating your contributions (Platane/snk)
+→ creates branch: output   (same branch your pacman graph already uses)
+
+Just ask and I can give you the two tiny workflow files — or grab them
+from the projects' GitHub pages. Then uncomment the matching block:
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</p>
+
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</p>
+════════════════════════════════════════════════════════════════════
 -->
