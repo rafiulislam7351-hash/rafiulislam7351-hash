@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BINARY PROFILE PICTURE -->
-<img src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/main/output_image.png" width="160" style="border-radius:50%; box-shadow: 0 0 15px #36BCF7; border: 2px solid #36BCF7;" alt="Binary Profile Picture" />
+<img src="output_image.png" width="160" style="border-radius:50%; box-shadow: 0 0 15px #36BCF7; border: 2px solid #36BCF7;" alt="Binary Profile Picture" />
 
 # 👋 Hi, I'm Rafiul Islam
 ### 🚀 Aspiring AI Data Engineer
