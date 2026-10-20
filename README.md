@@ -2,7 +2,7 @@
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0" style="border: none !important; background: transparent;">
   <tr style="border: none;">
-    <td width="55%" valign="top" align="left" style="border: none !important; background: transparent;">
+    <td width="60%" valign="top" align="left" style="border: none !important; background: transparent;">
       <span style="font-size: 26px; font-weight: bold;">Hi 👋, I'm Rafiul Islam</span><br><br>
       <span style="font-size: 18px; font-weight: 600;">🚀 Aspiring AI Data Engineer</span><br><br>
       <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Lakehouse+%26+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration" alt="Typing SVG" /><br><br>
@@ -11,8 +11,8 @@
         <img src="https://img.shields.io/badge/Portfolio-🌐%20rafiul--islam.app-111111?style=for-the-badge&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
-    <td width="45%" align="right" valign="top" style="border: none !important; background: transparent;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1000&color=A0A0A0&multiline=true&width=380&height=220&lines=%2F*%20AI%20Data%20Engineer%20*%2F%0A%24%20kubectl%20get%20nodes%0ANode-1%3A%20Ready%20(Azure)%0A%24%20dbt%20run%20--select%20marts%0AOK%3D12%20Transformed%0A%24%20pyspark%20--master%20k8s%0AJob%20Completed%20%E2%9C%93" alt="Terminal Graphic" />
+    <td width="40%" align="right" valign="top" style="border: none !important; background: transparent;">
+      <img src="Screenshot 2026-10-20 183914.png" width="220" alt="Binary Profile Picture" />
     </td>
   </tr>
 </table>
