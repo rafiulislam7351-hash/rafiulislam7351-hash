@@ -1,20 +1,30 @@
 <div align="center">
 
-<!-- BINARY PROFILE PICTURE -->
-<img src="Screenshot 2026-10-20 183914.png" width="200" height="200" style="border-radius: 50%; border: 3px solid #36BCF7; object-fit: cover;" alt="Binary Profile Picture" />
-
-# 👋 Hi, I'm Rafiul Islam
-### 🚀 Aspiring AI Data Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ETL+%2F+ELT+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration;Building+Scalable+AI+Data+Products" alt="Typing SVG" />
-
-<p>
-<strong>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</strong>
-</p>
-
-<img src="https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=plastic&logo=googlemaps&logoColor=white" alt="Location">
-<img src="https://img.shields.io/badge/Focus-AI%20Data%20Engineering-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Focus">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=plastic" alt="Status">
+<!-- SIDE-BY-SIDE HEADER SECTION -->
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="70%" valign="top" style="border: none;">
+      <h1>👋 Hi, I'm Rafiul Islam</h1>
+      <h3>🚀 Aspiring AI Data Engineer</h3>
+      
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ETL+%2F+ELT+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration;Building+Scalable+AI+Data+Products" alt="Typing SVG" />
+      
+      <p>
+      <strong>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</strong>
+      </p>
+      
+      <p>
+      <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=plastic&logo=googlemaps&logoColor=white" alt="Location">
+      <img src="https://img.shields.io/badge/Focus-AI%20Data%20Engineering-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Focus">
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=plastic" alt="Status">
+      </p>
+    </td>
+    <td width="30%" align="center" valign="middle" style="border: none;">
+      <!-- Upload a pre-cropped circular PNG to get the best look here -->
+      <img src="output_image.png" width="220" alt="Binary Profile Picture" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,7 +107,6 @@
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <!-- Update these with your real URLs/usernames -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="30"/></a>
   <a href="mailto:YOUR.EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="30"/></a>
   <a href="https://www.facebook.com/YOUR-FB-USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="30"/></a>
