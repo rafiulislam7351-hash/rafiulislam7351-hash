@@ -1,29 +1,21 @@
 <div align="center">
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
-  <tr>
-    <td width="60%" valign="middle" style="border: none; background: transparent;">
-      <h1>Hi 👋, I'm Rafiul Islam</h1>
-      <h3>🚀 Aspiring AI Data Engineer</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Lakehouse+%26+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration" alt="Typing SVG" /><br><br>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border: none !important; background: transparent;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" align="left" style="border: none !important; background: transparent;">
+      <span style="font-size: 26px; font-weight: bold;">Hi 👋, I'm Rafiul Islam</span><br><br>
+      <span style="font-size: 18px; font-weight: 600;">🚀 Aspiring AI Data Engineer</span><br><br>
+      <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Lakehouse+%26+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration" alt="Typing SVG" /><br><br>
       <p>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</p>
       <a href="https://rafiul-islam-portfolio.lovable.app" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-🌐%20rafiul--islam.app-111111?style=for-the-badge&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
-    <td width="40%" align="right" valign="middle" style="border: none; background: transparent;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1000&color=888888&multiline=true&width=340&height=180&lines=%2F*%20AI%20Data%20Engineer%20*%2F%0A%24%20kubectl%20get%20nodes%0ANode-1%3A%20Ready%20(Azure)%0A%24%20dbt%20run%20--select%20marts%0AOK%3D12%20Transformed%0A%24%20pyspark%20--master%20k8s%0AJob%20Completed%20%E2%9C%93" alt="Terminal Graphic" />
+    <td width="45%" align="right" valign="top" style="border: none !important; background: transparent;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&pause=1000&color=A0A0A0&multiline=true&width=380&height=220&lines=%2F*%20AI%20Data%20Engineer%20*%2F%0A%24%20kubectl%20get%20nodes%0ANode-1%3A%20Ready%20(Azure)%0A%24%20dbt%20run%20--select%20marts%0AOK%3D12%20Transformed%0A%24%20pyspark%20--master%20k8s%0AJob%20Completed%20%E2%9C%93" alt="Terminal Graphic" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-0D0D0D?style=plastic&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Focus-AI%20Data%20Engineering-1F1F1F?style=plastic&logo=microsoftazure&logoColor=white" alt="Focus">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-333333?style=plastic" alt="Status">
-</p>
-
----
 
 </div>
 
