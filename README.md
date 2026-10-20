@@ -1,27 +1,18 @@
 <div align="center">
 
-<!-- SIDE-BY-SIDE HEADER SECTION -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<table border="0" width="100%" style="border: none; background-color: transparent;">
   <tr>
-    <td width="70%" valign="top" style="border: none;">
+    <td width="70%" style="border: none; background-color: transparent;">
       <h1>👋 Hi, I'm Rafiul Islam</h1>
       <h3>🚀 Aspiring AI Data Engineer</h3>
-      
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ETL+%2F+ELT+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration;Building+Scalable+AI+Data+Products" alt="Typing SVG" />
-      
-      <p>
-      <strong>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</strong>
-      </p>
-      
-      <p>
-      <img src="https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=plastic&logo=googlemaps&logoColor=white" alt="Location">
-      <img src="https://img.shields.io/badge/Focus-AI%20Data%20Engineering-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Focus">
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=plastic" alt="Status">
-      </p>
+      <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ETL+%2F+ELT+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ETL+%2F+ELT+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration)" alt="Typing SVG" /><br><br>
+      <strong>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</strong><br><br>
+      <img src="[https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=plastic&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Gazipur%2C%20Bangladesh-blue?style=plastic&logo=googlemaps&logoColor=white)" alt="Location">
+      <img src="[https://img.shields.io/badge/Focus-AI%20Data%20Engineering-0078D4?style=plastic&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Focus-AI%20Data%20Engineering-0078D4?style=plastic&logo=microsoftazure&logoColor=white)" alt="Focus">
+      <img src="[https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=plastic](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=plastic)" alt="Status">
     </td>
-    <td width="30%" align="center" valign="middle" style="border: none;">
-      <!-- Upload a pre-cropped circular PNG to get the best look here -->
-      <img src="output_image.png" width="220" alt="Binary Profile Picture" />
+    <td width="30%" align="center" style="border: none; background-color: transparent;">
+      <img src="Screenshot 2026-10-20 183914.png" width="220" alt="Binary Profile Picture" />
     </td>
   </tr>
 </table>
@@ -43,30 +34,30 @@
 ## 🧰 Tech Stack & Skills
 
 ### ☁️ Cloud & Lakehouse Platform
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=plastic&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=plastic&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=plastic&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Event%20Hubs-0078D4?style=plastic&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-0668E1?style=plastic&logo=microsoft&logoColor=white" />
+<img src="[https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=plastic&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=plastic&logo=microsoftazure&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Azure%20Synapse-0078D4?style=plastic&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=plastic&logo=microsoftazure&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Azure%20Databricks-FF3621?style=plastic&logo=databricks&logoColor=white](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=plastic&logo=databricks&logoColor=white)" />
+<img src="[https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=plastic&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=plastic&logo=microsoftazure&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Event%20Hubs-0078D4?style=plastic&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Event%20Hubs-0078D4?style=plastic&logo=microsoftazure&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Microsoft%20Fabric-0668E1?style=plastic&logo=microsoft&logoColor=white](https://img.shields.io/badge/Microsoft%20Fabric-0668E1?style=plastic&logo=microsoft&logoColor=white)" />
 
 ### 🔄 Data Engineering & Transformation
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=plastic&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Streaming-FF6F00?style=plastic&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=plastic&logo=apacheairflow&logoColor=white" />
+<img src="[https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white](https://img.shields.io/badge/PySpark-E25A1C?style=plastic&logo=apachespark&logoColor=white)" />
+<img src="[https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white](https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=plastic&logo=databricks&logoColor=white](https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=plastic&logo=databricks&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Streaming-FF6F00?style=plastic&logo=apachekafka&logoColor=white](https://img.shields.io/badge/Streaming-FF6F00?style=plastic&logo=apachekafka&logoColor=white)" />
+<img src="[https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=plastic&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=plastic&logo=apacheairflow&logoColor=white)" />
 
 ### ⚙️ DevOps, Containers & CI/CD
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" />
+<img src="[https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)" />
+<img src="[https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)" />
+<img src="[https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)" />
 
 ### 💻 Languages & Databases
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/TSQL-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" />
+<img src="[https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)" />
+<img src="[https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)" />
+<img src="[https://img.shields.io/badge/TSQL-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/TSQL-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)" />
 
 ---
 
@@ -86,19 +77,19 @@
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiulislam7351-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulislam7351-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="165" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=rafiulislam7351-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7](https://github-readme-stats.vercel.app/api?username=rafiulislam7351-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7)" height="165" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulislam7351-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiulislam7351-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7)" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafiulislam7351-hash&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com?user=rafiulislam7351-hash&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7](https://streak-stats.demolab.com?user=rafiulislam7351-hash&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph-dark.svg)">
+    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg)">
+    <img alt="Pacman contribution graph" src="[https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/rafiulislam7351-hash/rafiulislam7351-hash/output/pacman-contribution-graph.svg)" width="100%">
   </picture>
 </p>
 
@@ -107,14 +98,14 @@
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="mailto:YOUR.EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="30"/></a>
-  <a href="https://www.facebook.com/YOUR-FB-USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="30"/></a>
-  <a href="https://wa.me/YOUR-PHONE-NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" height="30"/></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)" height="30"/></a>
+  <a href="mailto:YOUR.EMAIL@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)" height="30"/></a>
+  <a href="[https://www.facebook.com/YOUR-FB-USERNAME](https://www.facebook.com/YOUR-FB-USERNAME)"><img src="[https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)" height="30"/></a>
+  <a href="[https://wa.me/YOUR-PHONE-NUMBER](https://wa.me/YOUR-PHONE-NUMBER)"><img src="[https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)" height="30"/></a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafiulislam7351-hash.rafiulislam7351-hash&left_color=36BCF7&right_color=0D1117"/>
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=rafiulislam7351-hash.rafiulislam7351-hash&left_color=36BCF7&right_color=0D1117](https://visitor-badge.laobi.icu/badge?page_id=rafiulislam7351-hash.rafiulislam7351-hash&left_color=36BCF7&right_color=0D1117)"/>
 </p>
 
 </div>
