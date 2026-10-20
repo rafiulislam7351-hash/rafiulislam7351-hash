@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BINARY PROFILE PICTURE -->
-<img src="Screenshot 2026-10-20 183914.png" width="160" alt="Binary Profile Picture" />
+<img src="output_image.png" width="200" height="200" style="border-radius: 50%; border: 3px solid #36BCF7; object-fit: cover;" alt="Binary Profile Picture" />
 
 # 👋 Hi, I'm Rafiul Islam
 ### 🚀 Aspiring AI Data Engineer
