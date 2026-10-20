@@ -1,21 +1,27 @@
 <div align="center">
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border: none !important; background: transparent;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" align="left" style="border: none !important; background: transparent;">
-      <span style="font-size: 26px; font-weight: bold;">Hi 👋, I'm Rafiul Islam</span><br><br>
-      <span style="font-size: 18px; font-weight: 600;">🚀 Aspiring AI Data Engineer</span><br><br>
-      <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Lakehouse+%26+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration" alt="Typing SVG" /><br><br>
-      <p>Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.</p>
-      <a href="https://rafiul-islam-portfolio.lovable.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-🌐%20rafiul--islam.app-111111?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-      </a>
-    </td>
-    <td width="40%" align="right" valign="top" style="border: none !important; background: transparent;">
-      <img src="Screenshot 2026-10-20 183914.png" width="220" alt="Binary Profile Picture" />
-    </td>
-  </tr>
-</table>
+<img src="Screenshot 2026-10-20 183914.png" align="right" width="280" style="margin-left: 20px; margin-bottom: 20px;" alt="Profile Picture" />
+
+<div align="left">
+
+# Hi 👋, I'm Rafiul Islam
+### 🚀 Aspiring AI Data Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=450&lines=AI+%26+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Lakehouse+%26+Pipeline+Architect;PySpark%2C+Databricks+%26+dbt;Docker+%26+Kubernetes+Orchestration" alt="Typing SVG" />
+
+<br>
+
+Architecting scalable data pipelines, optimizing big data workflows, and engineering robust infrastructures to power AI and machine learning insights.
+
+<br>
+
+<a href="https://rafiul-islam-portfolio.lovable.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-🌐%20rafiul--islam.app-111111?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<br clear="all" />
 
 </div>
 
